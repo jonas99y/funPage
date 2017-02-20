@@ -1,0 +1,64 @@
+
+#mainTitle
+{
+    font-family: 'Nova Flat', cursive;
+    color: #04D8A7;
+
+}
+body{
+background: #F74A72 !important;
+}
+#subText{
+
+    font-family: 'Nova Flat', cursive;
+    color: #04D8A7;
+
+}
+
+#subTextTitle{
+
+    font-family: 'Nova Flat', cursive;
+    color: #0F3B49;
+
+}
+#mainImage
+{
+    margin: 0;
+    
+}
+
+.centered
+{
+    position: absolute;
+   
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+}
+
+#mainImage
+    {
+        height: 70vh;
+        top: 50%;
+    }
+
+#mainTitle
+{
+    font-size: 10vh;
+}
+#subTextTitle
+{
+    
+    font-size: 4vh;
+}
+#subText
+{
+    margin-top: 12vh;
+    font-size:4vh;
+}
+
+#subtextDiv
+{
+    top:70%;
+    width: 100%;
+}
